@@ -1,4 +1,5 @@
 *Avro
-*Harriet
-*Hornet
+*getting and cleaning data
+*exploratory data analysis
+*test
 
